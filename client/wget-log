@@ -1,0 +1,70 @@
+Retrying.
+
+--2016-03-17 10:49:08--  (try: 4)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 10:51:19--  (try: 5)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 10:53:31--  (try: 6)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 10:55:44--  (try: 7)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 10:57:59--  (try: 8)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:00:14--  (try: 9)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:02:30--  (try:10)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:04:47--  (try:11)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:07:05--  (try:12)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:09:22--  (try:13)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:11:39--  (try:14)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:13:56--  (try:15)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:16:13--  (try:16)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:18:31--  (try:17)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:20:48--  (try:18)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:23:05--  (try:19)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Retrying.
+
+--2016-03-17 11:25:22--  (try:20)  https://getcomposer.com/composer.phar
+Connecting to getcomposer.com (getcomposer.com)|149.202.120.33|:443... failed: Connection timed out.
+Giving up.
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5e93fe6-4f24-48dd-8c5a-dd2359be956f" name="webshop" url="http://s1310456017.kwmhgb.at">
+        <fileTransfer host="s1310456017.kwmhgb.at" port="21" password="df99dffbdf9edf9bdfdbdf92df98dfda" username="sbeemw">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
